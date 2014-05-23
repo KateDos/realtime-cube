@@ -24,12 +24,12 @@ var realTimeOptions = {
   /**
    * Client ID from the API console.
    */
-   clientId: YOUR_CLIENTID_HERE,
+   clientId: 614822466418.apps.googleusercontent.com,
 
   /**
    * Application ID from the API console.
    */
-   appId: YOUR_APP_ID_HERE,
+   appId: smiling-spring-589,
 
   /**
    * Function to be called when a RealTime model is first created.
